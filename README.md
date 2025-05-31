@@ -4,14 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM242c3pwNTBtNTMyaG93dXBsZjF2NzZ5NWlsNjd6a3lwMmhhaHJ4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 
 
-
 - 🔭 I’m currently working on **Startup**  
 - 🌱 I’m currently learning **Generative AI**  
 - 💬 Ask me about **Web Development, AI/ML**  
 - 📫 How to reach me: **kanishkar0008@gmail.com**  
-- ⚡ Fun fact: **📚 My idea of a good time? Debugging at 2 AM with coffee in hand!**
+- ⚡ **📚 My idea of a good time? Debugging at 2 AM with coffee in hand!**
 
----
+
+-----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
